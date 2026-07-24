@@ -1,4 +1,4 @@
-# 📊 PPTX to PDF Converter
+# PPTX to PDF Converter
 
 > A multithreaded, modern desktop application built with Java Swing that effortlessly converts PowerPoint presentations (.pptx, .ppt) into standard PDF documents using JODConverter and LibreOffice.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 Overview
+## Overview
 
 **PPTX to PDF Converter** is a desktop utility designed to securely and locally convert Microsoft PowerPoint files into PDFs. 
 
@@ -17,27 +17,27 @@ Rather than relying on cloud APIs, this application uses **JODConverter** to com
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-*   **🎛️ Modern Dark Theme UI:** Features a sleek, responsive interface built with Java Swing.
-*   **⚙️ Headless LibreOffice Engine:** Automates LibreOffice in the background to handle complex document conversions without interrupting your workflow.
-*   **⏳ Heavy-Duty Ready:** Built with a custom 5-minute task execution timeout to safely process massive, graphics-heavy presentation files.
-*   **⚡ Multithreaded Processing:** Uses `SwingWorker` to ensure the GUI remains fluid and responsive during long conversions.
-*   **🛡️ Smart Error Handling:** Automatically detects if LibreOffice is missing from the system and guides the user to install it.
-
----
-
-## 🛠️ Tech Stack & Dependencies
-
-*   **Language:** Java (JDK 11+)
-*   **Build Tool:** Maven
-*   **UI Framework:** Java Swing
-*   **Core Libraries:** JODConverter Local
-*   **System Requirement:** [LibreOffice](https://www.libreoffice.org/) MUST be installed on the host machine.
+*   Modern Dark Theme UI: Features a sleek, responsive interface built with Java Swing.
+*   Headless LibreOffice Engine: Automates LibreOffice in the background to handle complex document conversions without interrupting your workflow.
+*   Heavy-Duty Ready: Built with a custom 5-minute task execution timeout to safely process massive, graphics-heavy presentation files.
+*   Multithreaded Processing: Uses `SwingWorker` to ensure the GUI remains fluid and responsive during long conversions.
+*   Smart Error Handling: Automatically detects if LibreOffice is missing from the system and guides the user to install it.
 
 ---
 
-## 🚀 Quick Start
+## Tech Stack & Dependencies
+
+*   Language: Java (JDK 11+)
+*   Build Tool: Maven
+*   UI Framework: Java Swing
+*   Core Libraries: JODConverter Local
+*   System Requirement: [LibreOffice](https://www.libreoffice.org/) MUST be installed on the host machine.
+
+---
+
+## Quick Start
 
 ### 1. Prerequisites
 1. Install the **Java Development Kit (JDK)**.
