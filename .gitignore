@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+hs_err_pid*
+
+# Maven Build Folder (THIS IS THE MOST IMPORTANT ONE)
+target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
